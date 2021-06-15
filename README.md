@@ -1,1 +1,1 @@
-# mimin-js-marathon
+# minin-js-marathon
